@@ -1,0 +1,100 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	font-size: 1em;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	background: #e6e6e6;
+}
+
+#cabecalho {
+	background: greenyellow;
+	padding-top: 30px ;
+
+}
+
+#area-principal {
+	width: 900px;
+	margin-left: 200px;
+	background: Beige;
+}
+
+#imagem {
+	background: url(..imagens/front-end.jpg);
+	width: 500%;
+	margin-left: 250px;
+	
+}
+
+#fonte {
+	margin-top: 350px;
+	margin-bottom: -20px;
+	background: #fff;
+	text-align: center;
+	font-size: 0.7em;
+}
+
+#titulo {
+	text-align: center;
+	font-size: 1.5em;
+}
+
+#rodape {
+	text-align: center;
+	border: 1px solid grey;
+	padding: 30px;
+	background: grey;
+}
+
+.cor {
+	color: orangered;
+	font-size: 2.5em;
+	text-align: center;
+}
+
+.links {
+	margin: 10px;
+	margin-left: 0px;
+	margin-right: 0px;
+	text-align: center;
+	background: orange;
+}
+
+.data-postagem {
+	text-decoration: underline;
+	text-align: center;
+}
+
+.sub-titulo {
+	font-weight: bold;
+
+}
+
+h2 {
+	text-align: center;	
+	font-size: 3em;
+}
+
+h3 {
+	text-align: center;	
+	text-decoration: underline;
+} 
+
+a {
+	text-decoration: none;
+	color: #000;
+}
+img {
+	margin-top: 3px;
+	margin-left:3px;
+	width: 8%;
+	float:left;
+}
+
+ol {
+	margin: 25px;
+	margin-left: 420px	;
+	font-size: 1em;
+}
